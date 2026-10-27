@@ -1,4 +1,4 @@
-# RET503 — Project 1: Computer Vision and Deep Learning
+f# RET503 — Project 1: Computer Vision and Deep Learning
 
 ## 1. Deskripsi Proyek
 
@@ -85,8 +85,8 @@ Pastikan Python, `ultralytics`, PyTorch, dan dataset YOLO sudah tersedia. Contoh
 
 ```bash
 python 06_latih_bandingkan.py \
-  --nim 4222401051 \
-  --nama "Cheryll Hattie Wright Sianipar" \
+  --nim 4222401063 \
+  --nama "Fitra Adhani Saputra" \
   --data /path/ke/dataset/data.yaml \
   --model yolov8n \
   --epochs 30 \
@@ -100,7 +100,7 @@ Ganti `/path/ke/dataset/data.yaml` dengan lokasi `data.yaml` pada komputer yang 
 
 ## 8. Identitas
 
-- **Nama:** Cheryll Hattie Wright Sianipar
-- **NIM:** 4222401051
+- **Nama:** Fitra Adhani Saputra
+- **NIM:** 4222401063
 - **Program Studi:** D4 Teknologi Rekayasa Robotika
 - **Mata Kuliah:** Computer Vision and Deep Learning (RET503)
